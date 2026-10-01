@@ -1,0 +1,10 @@
+{
+  "description": "This investor-focused corporate website presents 4DS Memory's advanced ReRAM and Edge-AI technologies, offering clear insights and updates for stakeholders.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
